@@ -19,7 +19,7 @@ gradle もインストール。製作者本人はgradleのバージョン6を使
 https://docs.minecraftforge.net/en/1.21.x/gettingstarted/
 
 ```sh
-./gradrew genVSCodeRuns
+./gradlew genVSCodeRuns
 ```
 
 # ビルド
